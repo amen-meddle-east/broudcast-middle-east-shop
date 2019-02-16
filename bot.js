@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 const prefix = "/"
 const devs = ["406076958980571147"];
-const adminprefix = ["/bc"];
+const adminprefix = ["/vbc"];
 
 
 client.on('ready', () => {
